@@ -5,3 +5,4 @@ kobo
 koji
 rpmdyn
 bandit==1.7.5
+pylint; python_version>='3'

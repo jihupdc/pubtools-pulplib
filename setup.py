@@ -53,7 +53,7 @@ setup(
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
     install_requires=get_requirements(),
-    python_requires=">=3.6",
+    python_requires=">=3.12",
     project_urls={
         "Documentation": "https://release-engineering.github.io/pubtools-pulplib/",
         "Changelog": "https://github.com/release-engineering/pubtools-pulplib/blob/master/CHANGELOG.md",

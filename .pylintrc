@@ -99,6 +99,34 @@ disable=print-statement,
         # skip linting Python 3 features
         super-with-arguments,
         raise-missing-from,
+        duplicate-code,
+        too-many-arguments,
+        too-many-positional-arguments,
+        consider-using-f-string,
+        too-many-locals,
+        consider-using-set-comprehension,
+        inconsistent-return-statements,
+        consider-using-with,
+        invalid-name,
+        wrong-import-order,
+        no-else-raise,
+        unspecified-encoding,
+        use-a-generator,
+        unnecessary-lambda-assignment,
+        chained-comparison,
+        too-many-public-methods,
+        unnecessary-dunder-call,
+        use-yield-from,
+        no-else-return,
+        superfluous-parens,
+        too-many-nested-blocks,
+        too-many-branches,
+        too-many-lines,
+        too-many-instance-attributes,
+        consider-using-in,
+
+
+
 
 [TYPECHECK]
 ignored-classes=
